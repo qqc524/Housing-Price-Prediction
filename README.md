@@ -6,12 +6,12 @@ Predicting the **tax-assessed value** of residential properties using a cleaned 
 
 The project is divided into 2 main sections:
 
-### Data Cleaning & EDA
+### 1. Data Cleaning & EDA
 - Handle missing values, remove irrelevant columns, and treat outliers.  
 - Explore relationships between features and the target variable (`taxvaluedollarcnt`).  
 - Visualize distributions and correlations to identify important predictors.
 
-### Modeling & Feature Engineering
+### 2. Modeling & Feature Engineering
 - Create new features to improve predictions.  
 - Test three regression models:
   - Ridge Regression  
