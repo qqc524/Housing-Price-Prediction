@@ -1,4 +1,4 @@
-## Zillow Property Value Prediction
+# 🏠 Housing Price Prediction
 
 Predicting the tax-assessed value of residential properties using a cleaned Zillow dataset. The project explores key factors affecting home prices and builds regression models to estimate property values accurately.
 
