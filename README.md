@@ -9,7 +9,7 @@ After data cleaning (handled in a previous notebook), this project starts with a
 
 - **72,148 rows**  
 - **33 features** (property details, geographic info, and quality indicators)
----
+
 ## Project Overview
 
 ### 1. Data Cleaning & EDA
@@ -61,7 +61,7 @@ Performance was compared using:
 - MAE (Mean Absolute Error)
 - Standard deviation of MAE (to assess model stability)
 
----
+
 ## Final Model Performance
 
 * Decision Tree Regressor was the most accurate model.
