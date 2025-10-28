@@ -43,14 +43,14 @@ Ratio and interaction features help models understand home layout and size relat
 
 ### 5. Hyperparameter Tuning
 
-**Ridge Regression:**
-- GridSearchCV on alpha. Best alpha: 550
+  **Ridge Regression:**
+    - GridSearchCV on alpha. Best alpha: 550
 
-**Lasso Regression:**
-- GridSearchCV on alpha. Best alpha: 540
+  **Lasso Regression:**
+    - GridSearchCV on alpha. Best alpha: 540
 
-**Decision Tree Regressor:**
-- RandomizedSearchCV for multiple parameters.
+  **Decision Tree Regressor:**
+    - RandomizedSearchCV for multiple parameters.
 
 Best parameters: max_depth=12, min_samples_split=2, min_samples_leaf=10, max_features=0.8
 
